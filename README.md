@@ -1,7 +1,7 @@
 # BulkWalletGenerator-WalletBalanceChecker
 WalletHunter : Bulk Wallet Generator &amp; Wallet Balance Checker
 
-![BWG](https://raw.githubusercontent.com/crossdilemma/BulkWalletGenerator-WalletBalanceChecker/main/WalletHunter.gif)
+![BWG](https://raw.githubusercontent.com/crossdilemma/BulkWalletGenerator-WalletBalanceChecker/main/ss2.gif)
 
 Config
 - Set explorerConfig.txt
