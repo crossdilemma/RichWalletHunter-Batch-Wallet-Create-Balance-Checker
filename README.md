@@ -1,7 +1,7 @@
 # BulkWalletGenerator-WalletBalanceChecker
 WalletHunter : Bulk Wallet Generator &amp; Wallet Balance Checker
 
-![BWG](https://raw.githubusercontent.com/crossdilemma/BulkWalletGenerator-WalletBalanceChecker/main/ss2.gif)
+![BWG](https://raw.githubusercontent.com/crossdilemma/RichWalletHunter-Batch-Wallet-Create-Balance-Checker/main/ss2.gif)
 
 Config
 - Set explorerConfig.txt
@@ -11,6 +11,6 @@ Requirements
 - BSCScan, Etherscan, Snowtrace etc. api key : https://docs.bscscan.com/getting-started/viewing-api-usage-statistics
 - Time
 
-![BWG](https://raw.githubusercontent.com/crossdilemma/BulkWalletGenerator-WalletBalanceChecker/main/ss.jpg)
+![BWG](https://raw.githubusercontent.com/crossdilemma/RichWalletHunter-Batch-Wallet-Create-Balance-Checker/main/ss.jpg)
 
 for educational purposes only
